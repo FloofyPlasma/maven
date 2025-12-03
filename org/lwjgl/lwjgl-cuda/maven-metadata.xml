@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.lwjgl</groupId>
+  <artifactId>lwjgl-cuda</artifactId>
+  <versioning>
+    <latest>3.3.3ovr-SNAPSHOT</latest>
+    <versions>
+      <version>3.3.3ovr-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20251203084256</lastUpdated>
+  </versioning>
+</metadata>
